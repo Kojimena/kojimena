@@ -12,7 +12,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="50%" align="right" alt="Github" src="https://github.com/Kojimena/kojimena/blob/main/SleekDoodle%20(1).png?raw=true" />
+<img width="50%" align="right" alt="Github" src="https://github.com/Kojimena/kojimena/blob/main/SleekDoodle.png?raw=true" />
 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love coffee;
