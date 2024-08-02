@@ -12,19 +12,13 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="10%" align="right" alt="Github" src="" />
+<img width="50%" align="right" alt="Github" src="https://github.com/Kojimena/kojimena/blob/main/SleekDoodle%20(1).png?raw=true" />
 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I love coffee;
 - 📫 How to reach me: kojimena10@gmail.com;
 
 **Languages and Tools:** 
-
-<!-- Your github readme stats -->
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Jimena's github stats" src="https://github-readme-stats.vercel.app/api?username=kojimena&show_icons=true&hide_border=true" />
-  </a>
 
   <!-- Your languages and tools. Be careful with the alignment. -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
